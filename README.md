@@ -1,3 +1,6 @@
+# for ctc underatanding. 
+https://distill.pub/2017/ctc/
+
 # Vakyansh Wav2Vec2 Experimentaion
 
 ## Pretrained Models
